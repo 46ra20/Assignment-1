@@ -1,11 +1,10 @@
 body{
     margin: 0px;
     padding: 0px;
-    font-family: 'Mitr','Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .top-session{
     background-image: url(images/donation5.jpg) ;
-    font-family: 'Poppins', sans-serif;
     width: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -43,7 +42,6 @@ body{
 }
 .donate-tody{
     margin: 100px auto;
-    font-family: 'Poppins',sans-serif;;
 }
 .donate-tody h2{
     margin: 0px;
@@ -98,4 +96,51 @@ body{
     text-decoration: none;
     border-radius: 5px;
     border: none;
+}
+
+.donate-plan{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0px;
+}
+.description h1{
+    margin: 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+}
+.description p{
+    margin: 0px auto;
+    text-align: center;
+    width: 60%;
+
+}
+.our-plans{
+    display: flex;
+    display: flex;
+    width: 100%;
+    margin: 40px 0px;
+    padding: 0px;
+}
+.common{
+    width: 29%;
+    margin: 1%;
+    padding: 40px 20px;
+    border-radius: 15px;
+
+}
+.common img{
+    width: 53px;
+    height: 53px;
+    font-size: 24px;
+    font-weight: 600;
+}
+#food{
+    background-color: #edf5f6;
+}
+#shelter{
+    background-color: #ffeeee;
+}
+#education{
+    background-color: #ffeeee;
 }
