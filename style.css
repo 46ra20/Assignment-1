@@ -4,7 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .top-session{
-    background-image: url(images/donation5.jpg) ;
+    background-image: url(images/donation2.jpg) ;
     width: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -17,18 +17,20 @@ body{
     font-size: 65px;
     font-weight: bold;
     text-align: center;
-    padding-top: 200px;
+    padding-top: 150px;
     width: 65%;
+    text-shadow: 2px 2px 5px black;
 }
 .top-session p{
     margin: 0 auto;
-    color: white;
-    font-size: 18px;
+    color: black;
+    font-size: 20px;
     width: 50%;
     text-align: center;
+    text-shadow: 2px 2px 5px white;
 }
 .donate-now{
-    margin: 20px auto;
+    margin: 40px auto;
     width: 15%;
 }
 .donate-now a{
@@ -118,7 +120,6 @@ body{
 }
 .our-plans{
     display: flex;
-    display: flex;
     width: 100%;
     margin: 40px 0px;
     padding: 0px;
@@ -168,4 +169,36 @@ footer h4{
     color: lightgreen;
     text-align: center;
     font-size: 24px;
+}
+.learn-more{
+    width: 100%; 
+    margin-bottom: 50px;   
+}
+.learn-more h1{
+    font-size: 35px;
+    margin: 0px;
+    padding: 0px 10px;
+    color: #0057ab;
+    text-align: center;
+}
+.learn-more ul{
+    display: flex;
+    width: 80%;
+    margin:0px auto;
+}
+.learn-more ul li{
+    list-style: none;
+    margin: 2%;
+    text-align: center;
+}
+.learn-more ul li a{
+    border: 2px solid #0057ab;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+.learn-more ul li a:hover{
+    color: white;
+    background-color: #0057ab;
 }
