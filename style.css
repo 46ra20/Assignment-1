@@ -42,7 +42,6 @@ body{
     border-radius: 5px;
 }
 .donate-tody{
-    width: 70%;
     margin: 100px auto;
     font-family: 'Poppins',sans-serif;;
 }
@@ -55,6 +54,26 @@ body{
 .donate-tody p{
     margin: 0 auto;
     font-size: 18px;
-    width: 65%;
+    width: 53%;
     text-align: center;
+}
+.donate-tody ul{
+    display: flex;
+    margin: 10px auto;
+    width: 63%;
+}
+.donate-tody ul li{
+        list-style: none;
+        margin: 30px 9px;
+        padding: 38px 9px;
+        width: 135px;
+        background-color: #FAFAFA;
+        text-align: center;
+        border-radius: 10px;
+        font-size: 30px;
+        font-weight: bold;
+}
+.special{
+    border:2px solid #FF5959;
+    color: #ff5959;
 }
