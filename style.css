@@ -188,7 +188,8 @@ footer h4{
 }
 .learn-more ul li{
     list-style: none;
-    margin: 2%;
+    margin: 0px;
+    width: 28.5%;
     text-align: center;
 }
 .learn-more ul li a{
