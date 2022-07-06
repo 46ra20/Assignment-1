@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Mitr','Poppins', sans-serif;
+}
+.top-session{
+    background-image: url(images/donation5.jpg) ;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 650px;
+    margin: 0 auto;
+}
+.top-session h1{
+    margin: 0px auto;
+    color: white;
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 200px;
+    width: 65%;
+}
+.top-session p{
+    margin: 0 auto;
+    color: white;
+    font-size: 18px;
+    width: 50%;
+    text-align: center;
+}
+.donate-now{
+    margin: 20px auto;
+    width: 15%;
+}
+.donate-now a{
+    background-color: #FF5959;
+    padding: 10px 20px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
