@@ -37,6 +37,24 @@ body{
     padding: 10px 20px;
     color: white;
     font-size: 20px;
+    font-weight: 600;
     text-decoration: none;
     border-radius: 5px;
+}
+.donate-tody{
+    width: 70%;
+    margin: 100px auto;
+    font-family: 'Poppins',sans-serif;;
+}
+.donate-tody h2{
+    margin: 0px;
+    text-align: center;
+    font-weight:  bold;
+    font-size: 45px;
+}
+.donate-tody p{
+    margin: 0 auto;
+    font-size: 18px;
+    width: 65%;
+    text-align: center;
 }
