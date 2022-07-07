@@ -236,4 +236,7 @@ footer h4{
     width: 157px;
     height: 50px;
     background-color: #FF5959;
+    color: white;
+    font: 16px;
+    font-weight: 600;
 }
